@@ -5,24 +5,24 @@
     margin=0.1;
     node [shape=circle];
     edge [arrowsize=0.8];
-    "53a14d4c-7709-43f4-9e47-79834f9142e1" -> "d4b30905-5f52-40af-b1a8-540188584f55"[side=left];
-"d4b30905-5f52-40af-b1a8-540188584f55" -> "af70ce3c-2cb5-4127-85bf-da55b143d100"[side=left];
-"d4b30905-5f52-40af-b1a8-540188584f55" -> "ba49d350-6a80-43b0-9cfb-4bb6af428ba4"[side=right];
-"ba49d350-6a80-43b0-9cfb-4bb6af428ba4" -> "d1d79ee8-5845-4c68-a7e4-28c273d81db7"[side=left];
-"d1d79ee8-5845-4c68-a7e4-28c273d81db7" -> "ac143f3b-cba2-4cbf-a2b6-9050014d73cd"[side=left];
-"ac143f3b-cba2-4cbf-a2b6-9050014d73cd" -> "f7d94fb5-8409-4cb0-b5dd-d90af0101e76"[side=right];
-"ba49d350-6a80-43b0-9cfb-4bb6af428ba4" -> "13074d17-4a2b-46c5-83cf-b167ff6a08e5"[side=right];
-"53a14d4c-7709-43f4-9e47-79834f9142e1" -> "a7acd677-bfb1-440c-b875-3c9ae3ab8354"[side=right];
-"a7acd677-bfb1-440c-b875-3c9ae3ab8354" -> "cb3a257f-cfd7-4ff1-996e-60c5fae24a40"[side=left];
-"a7acd677-bfb1-440c-b875-3c9ae3ab8354" -> "d0f6e814-f285-4447-a032-d124a63ff965"[side=right];
-"d1d79ee8-5845-4c68-a7e4-28c273d81db7"[label=<9<BR/><FONT POINT-SIZE="10">5,2</FONT>>]
-"d0f6e814-f285-4447-a032-d124a63ff965"[label=<38<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
-"a7acd677-bfb1-440c-b875-3c9ae3ab8354"[label=<35<BR/><FONT POINT-SIZE="10">4,2</FONT>>]
-"ac143f3b-cba2-4cbf-a2b6-9050014d73cd"[label=<7<BR/><FONT POINT-SIZE="10">3,2</FONT>>]
-"cb3a257f-cfd7-4ff1-996e-60c5fae24a40"[label=<29<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
-"ba49d350-6a80-43b0-9cfb-4bb6af428ba4"[label=<11<BR/><FONT POINT-SIZE="10">8,1</FONT>>]
-"af70ce3c-2cb5-4127-85bf-da55b143d100"[label=<2<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
-"f7d94fb5-8409-4cb0-b5dd-d90af0101e76"[label=<8<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
-"53a14d4c-7709-43f4-9e47-79834f9142e1"[label=<17<BR/><FONT POINT-SIZE="10">17,1</FONT>>]
-"d4b30905-5f52-40af-b1a8-540188584f55"[label=<5<BR/><FONT POINT-SIZE="10">12,3</FONT>>]
-"13074d17-4a2b-46c5-83cf-b167ff6a08e5"[label=<16<BR/><FONT POINT-SIZE="10">2,2</FONT>>]}
+    "a2a69078-095d-4e64-a5ac-3cdd4373059f" -> "0910723d-ce61-461e-9b04-4c1490481cf1"[side=left];
+"0910723d-ce61-461e-9b04-4c1490481cf1" -> "7995f9e5-0a52-472f-a26c-ee351b7d5f25"[side=left];
+"0910723d-ce61-461e-9b04-4c1490481cf1" -> "fe2b4f1d-c445-4f57-ac5f-2e4cf5d4f95e"[side=right];
+"fe2b4f1d-c445-4f57-ac5f-2e4cf5d4f95e" -> "afbbf633-04d9-4085-9c88-db7bea0ea12b"[side=left];
+"afbbf633-04d9-4085-9c88-db7bea0ea12b" -> "0f43a3fa-cd47-43d9-a348-050a3d68e86b"[side=left];
+"0f43a3fa-cd47-43d9-a348-050a3d68e86b" -> "c1735bb7-25a3-4537-b3d6-e7e3c6993300"[side=right];
+"fe2b4f1d-c445-4f57-ac5f-2e4cf5d4f95e" -> "1843249a-7e0b-488f-9098-b7e2fab6df6e"[side=right];
+"a2a69078-095d-4e64-a5ac-3cdd4373059f" -> "286d6ca8-b556-42af-aae7-e43fbea0c3a1"[side=right];
+"286d6ca8-b556-42af-aae7-e43fbea0c3a1" -> "2cec486d-6ce0-41b3-b4c8-8b02c69e9b05"[side=left];
+"286d6ca8-b556-42af-aae7-e43fbea0c3a1" -> "6ab7e96f-f188-4a4b-a793-f4c9ba611c0c"[side=right];
+"7995f9e5-0a52-472f-a26c-ee351b7d5f25"[label=<2<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"1843249a-7e0b-488f-9098-b7e2fab6df6e"[label=<16<BR/><FONT POINT-SIZE="10">2,2</FONT>>]
+"2cec486d-6ce0-41b3-b4c8-8b02c69e9b05"[label=<29<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"afbbf633-04d9-4085-9c88-db7bea0ea12b"[label=<9<BR/><FONT POINT-SIZE="10">5,2</FONT>>]
+"6ab7e96f-f188-4a4b-a793-f4c9ba611c0c"[label=<38<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"0910723d-ce61-461e-9b04-4c1490481cf1"[label=<5<BR/><FONT POINT-SIZE="10">12,3</FONT>>]
+"fe2b4f1d-c445-4f57-ac5f-2e4cf5d4f95e"[label=<11<BR/><FONT POINT-SIZE="10">8,1</FONT>>]
+"0f43a3fa-cd47-43d9-a348-050a3d68e86b"[label=<7<BR/><FONT POINT-SIZE="10">3,2</FONT>>]
+"a2a69078-095d-4e64-a5ac-3cdd4373059f"[label=<17<BR/><FONT POINT-SIZE="10">17,1</FONT>>]
+"c1735bb7-25a3-4537-b3d6-e7e3c6993300"[label=<8<BR/><FONT POINT-SIZE="10">1,1</FONT>>]
+"286d6ca8-b556-42af-aae7-e43fbea0c3a1"[label=<35<BR/><FONT POINT-SIZE="10">4,2</FONT>>]}
